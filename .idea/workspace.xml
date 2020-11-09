@@ -140,6 +140,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\10023\code\laravel-shop\app\Models" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
@@ -154,7 +159,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604918423587</updated>
-      <workItem from="1604918466569" duration="4445000" />
+      <workItem from="1604918466569" duration="7373000" />
     </task>
     <servers />
   </component>
@@ -166,5 +171,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1272" y="913" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1604918620290" />
+    <state x="154" y="112" width="595" height="852" key="find.popup" timestamp="1604927879849">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="154" y="112" width="595" height="852" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1604927879849" />
   </component>
 </project>
