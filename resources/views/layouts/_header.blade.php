@@ -29,6 +29,9 @@
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <a class="dropdown-item" id="logout" href="#"
                                onclick="event.preventDefault();document.getElementById('logout-form').submit();">退出登录</a>
+                            <!-- 收货地址从这开始 -->
+                            <a href="{{ route('user_addresses.index') }}" class="dropdown-item">收货地址</a>
+                            </div>
                             <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
                                 {{ csrf_field() }}
                             </form>
@@ -38,10 +41,6 @@
             <!-- 登录注册链接结束 -->
             </ul>
 
-            <!-- 收货地址从这开始 -->
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a href="{{ route('user_addresses.index') }}" class="dropdown-item">收货地址</a>
-            </div>
 
 
         </div>
