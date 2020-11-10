@@ -37,6 +37,13 @@
             @endguest
             <!-- 登录注册链接结束 -->
             </ul>
+
+            <!-- 收货地址从这开始 -->
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a href="{{ route('user_addresses.index') }}" class="dropdown-item">收货地址</a>
+            </div>
+
+
         </div>
     </div>
 </nav>
