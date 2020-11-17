@@ -11,7 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9faa48-6397-4b33-909a-d48ee38039be" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CouponCodesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/CouponCodesController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/CouponCode.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/CouponCode.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Services/OrderService.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Services/OrderService.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/cart/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/cart/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/orders/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/orders/show.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +202,7 @@
       <workItem from="1605162411781" duration="1184000" />
       <workItem from="1605163948894" duration="8762000" />
       <workItem from="1605502300582" duration="15665000" />
-      <workItem from="1605583146722" duration="17235000" />
+      <workItem from="1605583146722" duration="18244000" />
     </task>
     <servers />
   </component>
