@@ -7,13 +7,12 @@ use Encore\Admin\Controllers\AdminController;
 use Encore\Admin\Grid;
 use Encore\Admin\Layout\Content;
 use Illuminate\Http\Request;
-use App\Exceptions\InvalidRequestException;
 use Illuminate\Foundation\Validation\ValidatesRequests;
-
+use App\Exceptions\InvalidRequestException;
 class OrdersController extends AdminController
 {
     use ValidatesRequests;
-    
+
     protected $title = '订单';
 
     protected function grid()
@@ -88,4 +87,6 @@ class OrdersController extends AdminController
         // 返回上一页
         return redirect()->back();
     }
+
+
 }
