@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9faa48-6397-4b33-909a-d48ee38039be" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/OrdersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/OrdersController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +155,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/lang" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -163,7 +163,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.配色方案字体" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -198,6 +198,7 @@
       <workItem from="1605163948894" duration="8762000" />
       <workItem from="1605502300582" duration="15665000" />
       <workItem from="1605583146722" duration="19048000" />
+      <workItem from="1608454907409" duration="115000" />
     </task>
     <servers />
   </component>
@@ -233,9 +234,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1272" y="913" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1604918620290" />
-    <state x="0" y="368" key="SettingsEditor" timestamp="1605167541244">
+    <state x="0" y="368" key="SettingsEditor" timestamp="1608454972976">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="0" y="368" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608454972976" />
     <state x="0" y="368" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1605167541244" />
     <state x="154" y="112" width="595" height="852" key="find.popup" timestamp="1604927879849">
       <screen x="0" y="0" width="1920" height="1080" />

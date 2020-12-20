@@ -19,9 +19,6 @@ use App\Models\CouponCode;
 
 class OrdersController extends Controller
 {
-
-
-    
     public function store(OrderRequest $request, OrderService $orderService)
     {
         $user    = $request->user();

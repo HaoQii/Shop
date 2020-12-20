@@ -38,4 +38,8 @@ class CartController extends Controller
 
         return [];
     }
+
+    public static function test(){
+        return [];
+    }
 }
